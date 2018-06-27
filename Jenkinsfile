@@ -6,7 +6,7 @@ node(){
  stage 'compile'
     bat 'mvn compile'
  stage 'test'
-   bat 'mvn test'
+   bat 'mvn test11'
  stage 'SonarQube'
   bat 'dir'
  stage 'Nexus upload'
