@@ -5,9 +5,8 @@ node(){
        print("Cloning the code") 
     }
      stage("Building the code"){
-      bat '''set JAVA_HOME="C:\\Program Files\\Java\\jdk1.8.0_144"
+      bat '''set JAVA_HOME=C:\\Program Files\\Java\\jdk1.8.0_144
 mvn package'''
-
     }
      stage("Sonar Analyis"){
        print("Building the code")   
