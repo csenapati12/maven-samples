@@ -5,6 +5,11 @@ node(){
      
      echo "Dir"
 }
+
+ stage("Dir-new"){
+     
+     echo "Dir-new"
+}
    
     
 }
