@@ -1,4 +1,10 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcsenapati12%2Fmaven-samples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcsenapati12%2Fmaven-samples?ref=badge_shield)
+
 Simple Maven Projects for testing 
 ---------------------
 
 This repository contains two small Maven projects intended as examples of how a Maven projects can be setup. They were created to be used in a presentation about Maven.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcsenapati12%2Fmaven-samples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcsenapati12%2Fmaven-samples?ref=badge_large)
